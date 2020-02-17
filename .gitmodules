@@ -1,0 +1,9 @@
+[submodule "themes/tale"]
+	path = themes/tale
+	url = https://github.com/EmielH/tale-hugo.git
+[submodule "themes/minimal-bootstrap-hugo-theme"]
+	path = themes/minimal-bootstrap-hugo-theme
+	url = https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme.git
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
